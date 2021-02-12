@@ -10,6 +10,9 @@ class MyTest extends KernelTestCase
 {
     public function testMyTest()
     {
+        $a = [
+            'bbb' => 1
+        ];
         return;
     }
 }
